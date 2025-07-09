@@ -1,5 +1,6 @@
 # leetcode_cpp
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ustar2002?theme=dark&font=Patrick%20Hand&ext=heatmap)
+<br>
 [Notion](https://www.notion.so/LeetCode-C-22ac60a9f6a180a6b5b9ea576389c5f4?pvs=73)
 
 <!---LeetCode Topics Start-->
