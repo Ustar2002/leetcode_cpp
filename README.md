@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Ustar2002/leetcode_cpp/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Ustar2002/leetcode_cpp/tree/master/0014-longest-common-prefix) |
 | [0198-house-robber](https://github.com/Ustar2002/leetcode_cpp/tree/master/0198-house-robber) |
+| [0455-assign-cookies](https://github.com/Ustar2002/leetcode_cpp/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,16 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ustar2002/leetcode_cpp/tree/master/0198-house-robber) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ustar2002/leetcode_cpp/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ustar2002/leetcode_cpp/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Ustar2002/leetcode_cpp/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
